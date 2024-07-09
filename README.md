@@ -1,16 +1,42 @@
-## Hi there 👋
+### Hi there,
 
-<!--
-**uyummobile/uyummobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Welcome+to+the+world+of+uyumMobile.)](https://github.com/uyummobile)
 
-Here are some ideas to get you started:
+<table width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <tr>
+    <td colspan="2">
+      <div>
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uyummobile&theme=yeblu" />
+         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=uyummobile&theme=yeblu&hide_border=true" />
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>  
+      <div>
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uyummobile&theme=yeblu" />
+      </div>
+    </td>
+    <td>  
+      <div>
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uyummobile&theme=yeblu&utcOffset=8" />
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>  
+      <div>
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uyummobile&theme=yeblu" />
+      </div>
+    </td>
+    <td>  
+      <div>
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uyummobile&theme=yeblu" />
+      </div>
+    </td>
+  </tr>
+    
+</table>
